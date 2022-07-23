@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- <img src="./desktop.jpg" style="max-width: 1000px;width: 90%; display: block; margin: 0 auto;"> -->
+<img src="./docs/assets/screenshot/desktop.jpg" style="max-width: 1000px;width: 90%; display: block; margin: 0 auto;">
 
 ### Links
 
