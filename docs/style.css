@@ -105,6 +105,7 @@ p
   width: 100%;
   padding: 1rem;
   font-size: .6rem;
+  text-align: center;
   background-color: var(--background-card);
 }
 .attribution
