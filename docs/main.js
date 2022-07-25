@@ -4,24 +4,24 @@ const adviceText = document.getElementById("advice-text")
 
 button.addEventListener("click", () => 
 {
-  let data = getData();
-  data.then(res => 
-    {
-      changeData(res)
-    })
+  changeData()
 })
 
-const getData = async () =>
+const getData = () =>
 {
-  return await fetch("https://api.adviceslip.com/advice")
+  const request = fetch("https://api.adviceslip.com/advice")
   .then(data => data.json())
   .then(res => res)
-  .catch(err => err);
+  .catch(err => console.log(err))
+  const data = request
+  return data
 }
 
-const changeData = (d) => 
+const changeData = async (d) => 
 {
-  console.log(d);
+  d = await getData()
   adviceText.textContent = d.slip.advice
   number.textContent = d.slip.id
 }
+
+changeData()
