@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/sanchez-dev1906/frontendmentor---challenge-12/)
-- Live Site URL: [Github Pages](https://sanchez-dev1906.github.io/frontendmentor---challenge-12/)
+- Solution URL: [Github](https://github.com/sanchezdev-1906/frontendmentor---challenge-12/)
+- Live Site URL: [Github Pages](https://sanchezdev-1906.github.io/frontendmentor---challenge-12/)
 
 ## My process
 
@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [sanchez-dev1906.github.io](https://sanchez-dev1906.github.io)
-- Github - [sanchez-dev1906](https://github.com/sanchez-dev1906)
+- Website - [sanchezdev-1906.github.io](https://sanchezdev-1906.github.io)
+- Github - [sanchezdev-1906](https://github.com/sanchezdev-1906)
 - Frontend Mentor - [@sanchez-dev1906](https://www.frontendmentor.io/profile/sanchez-dev1906)
